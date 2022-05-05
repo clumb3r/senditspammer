@@ -1,6 +1,8 @@
 # senditspammer
 Sendit spammer using python and selenium. I created this project in a few hours. If something breaks or you have ideas create a pull request or message me on discord. clumber#7126
 
+NOTE: This repo was created for educational purposes only. Spamming is illegal in many regions. I do not condone the use of this code for any illegal purposes. 
+
 * WIthout the proper installation of chromedriver the application will close. 
 * Using more then 1-3 threads can have the opposite effect on low end hardware.
 * Selenium does NOT have built in threading support.
