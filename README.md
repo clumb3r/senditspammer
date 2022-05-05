@@ -9,7 +9,7 @@ NOTE: This repo was created for educational purposes only. Spamming is illegal i
 
 Tutorial:
 1. Download repository. (be sure to have python installed)
-2. Download the neccessary chromedriver. 
+2. Download the neccessary chromedriver and drag it into the senditspammer folder. 
 3. Run start.py.
 4. Select the type of spam.
 5. Enjoy (;
